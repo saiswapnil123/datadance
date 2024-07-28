@@ -1,4 +1,4 @@
-import { RouteKey, Controller } from "./types.ts"
+import { RouteKey, Controller } from "../core/types.ts"
 import ProcessController from "./controllers/process_controller.ts"
 import {
   SaveTransformController,

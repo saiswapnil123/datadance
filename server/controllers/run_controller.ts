@@ -1,5 +1,5 @@
-import { transform } from "../core/transform.ts";
-import { Controller, DataObject } from "../types.ts";
+import { transform } from "../../core/transform.ts";
+import { Controller, DataObject } from "../../core/types.ts";
 import { isValidEmail } from "../utils/data_validation.ts";
 import KvSingleton from "../utils/kv_instance.ts";
 
